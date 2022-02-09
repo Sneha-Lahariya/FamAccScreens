@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Family Accounts</string>
+    <string name="name1_cody">Cody Thistleward</string>
+    <string name="name2_jac">Jac Thistleward</string>
+    <string name="name3_lirael">Lirael Thistleward</string>
+    <string name="total_classes">0 Total Classes</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="text_name_classes">Name Classes</string>
+    <string name="text_select_acc">SELECT AN ACCOUNT</string>
+    <string name="text_choose_acc">Choose an account to book with</string>
+</resources>
